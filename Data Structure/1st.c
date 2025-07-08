@@ -7,7 +7,8 @@ int main() {
     int length;
 
     length = strspn(string1, string2);
-    printf("Character where string diff is at position: %d\n", length);
+    printf("Abdullah Khan: %d\n", length);
+    printf("Abdullah Khan: %d\n", length);
 
     return 0;
 }
